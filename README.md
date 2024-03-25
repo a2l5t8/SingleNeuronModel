@@ -4,6 +4,8 @@ Implementation of single spiking neuron models, variations of lif models and the
 In this report, we tried to implement the first single spiking neuron model **(LIF model)** and
 its few variations and analyse its behavior on different input currents and its parameters.
 
+All implementations are in the context of `pymonntorch` framework using each implementation as `behavior` on a network.
+
 # Table of content
 The things we covered in this project are as following : 
 
